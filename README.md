@@ -91,7 +91,7 @@ APK 体积过大 jdeps 收窄、rootfs 压缩、按 ABI 拆包
 🙏 致谢
 
 · [HiveGamesOSS/Chunker](https://github.com/HiveGamesOSS/Chunker) — 转换引擎
-· Dicecan/Chunkoid — Android 先例参考
+· [Dicecan/Chunkoid](https://github.com/Dicecan/Chunkoid) — Android 先例参考
 
 ---
 
